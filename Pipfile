@@ -6,9 +6,11 @@ name = "pypi"
 [packages]
 requests = "*"
 python-dotenv = "1.0.1"
-
+ticktick-py = "==2.0.3"
+python-toggl = "==1.1.0"
+pydantic = "==1.8.2"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
+python_version = "3.12.3"

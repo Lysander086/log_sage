@@ -1,4 +1,6 @@
 from toggl.toggl_data_retriever import TogglDataRetriever
+
+
 def main():
     TogglDataRetriever('t')
     pass

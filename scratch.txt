@@ -1,0 +1,11 @@
+.\match_file.py
+.\app\core.py
+.\app\helpers.py
+.\app\main.py
+.\app\__init__.py
+.\app\config\configuration.py
+.\app\config\__init__.py
+.\app\toggl\toggl_data_retriever.py       
+.\tests\__init__.py
+.\tests\config\configuration_test.py      
+.\tests\toggl\test_toggl_data_retriever.py
